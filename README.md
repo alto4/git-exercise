@@ -3,8 +3,8 @@ Altcademy Git/GitHub exercise demonstrating different CLI commands.
 
 I have been edited once.
 
-Add README.md to staging in Git.
-Commit your changes with a message.
+Now this file has been edited twice for Step 20.
+
 Push your "readme" branch to your git-hub repository.Make a pull request of your "readme" branch to your "master" branch on GitHub.
 Merge your pull request into "master".
 Switch back to "master" branch in your local repository.
